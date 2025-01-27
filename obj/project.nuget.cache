@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ibn8czIx3Zs=",
+  "success": true,
+  "projectFilePath": "/Users/seif/Travel-app-backend/TravelAppAPI/TravelAppAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/seif/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/seif/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
